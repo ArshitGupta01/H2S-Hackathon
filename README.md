@@ -29,7 +29,7 @@ It provides two main features:
 Clone the repo and install dependencies:
 
 bash
-git clone https://github.com/your-username/career-advisor.git
+git clone https://github.com/ArshitGupta01/H2S-Hackathon.git
 cd career-advisor
 npm install
 
