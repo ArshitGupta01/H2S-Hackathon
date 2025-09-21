@@ -48,7 +48,8 @@ npm run build
 
 📸 Preview
 
-(You can add a screenshot or GIF of your site here)
+<img width="1903" height="884" alt="image" src="https://github.com/user-attachments/assets/6b0f7cf0-386c-4b5e-82f8-475f7b282dc2" />
+
 
 
 ---
